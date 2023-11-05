@@ -18,7 +18,7 @@ Programa produzido por Pedro Najar Machado Gonzales para aprendizado de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto Cartão de Visitas Online - Barbearia" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Cartão de Visitas Online - Barbearia" src=".github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
